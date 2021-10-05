@@ -6,4 +6,4 @@
 * Add appropriate border and padding to that div.
  
 ### The ouput
-![output](images/output.png)
+![output](output.png)
